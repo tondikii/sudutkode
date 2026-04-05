@@ -26,7 +26,7 @@ interface SocialNetworkProps {
 
 const teamList: TeamProps[] = [
   {
-    avatar: "team-member-1.jpg",
+    avatar: "/team/team-member-1.jpg",
     firstName: "Tondiki",
     lastName: "Andika",
     positions: ["Fullstack Developer"],
@@ -39,6 +39,30 @@ const teamList: TeamProps[] = [
         name: "Github",
         url: "https://github.com/tondikii",
       },
+    ],
+  },
+  {
+    avatar: "",
+    firstName: "Kink",
+    lastName: "Yusuf",
+    positions: ["Fullstack Developer"],
+    socialNetworks: [
+    ],
+  },
+  {
+    avatar: "",
+    firstName: "Rama",
+    lastName: "dhan",
+    positions: ["Fullstack Developer"],
+    socialNetworks: [
+    ],
+  },
+  {
+    avatar: "",
+    firstName: "Zul",
+    lastName: "Fikar",
+    positions: ["Fullstack Developer"],
+    socialNetworks: [
     ],
   },
 ];

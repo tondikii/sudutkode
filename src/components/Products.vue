@@ -47,42 +47,42 @@ const products: Product[] = [
     description:
       "A personal finance tracking app with visual reports, transaction categories, and automatic tracker. Manage your finances easily and efficiently.",
     platform: "Android",
-    icon: "/uangku-icon.png",
+    icon: "/projects/uangku/uangku-icon.png",
     screenshots: [
       {
-        src: "/uangku-auth.jpg",
+        src: "/projects/uangku/uangku-auth.jpg",
         caption: "Sign in securely with Google OAuth 2.0",
       },
       {
-        src: "/uangku-intro.jpg",
+        src: "/projects/uangku/uangku-intro.jpg",
         caption: "Automatic transaction recording from banking & e-wallet notifications",
       },
       {
-        src: "/uangku-access-request.jpg",
+        src: "/projects/uangku/uangku-access-request.jpg",
         caption: "Reads only banking & e-wallet notifications — no personal messages",
       },
       {
-        src: "/uangku-initial-wallets.jpg",
+        src: "/projects/uangku/uangku-initial-wallets.jpg",
         caption: "Set up your wallets: cash, m-banking, and e-wallets in one place",
       },
       {
-        src: "/uangku-transactions.jpg",
+        src: "/projects/uangku/uangku-transactions.jpg",
         caption: "Daily transaction history with income, expense, and balance summary",
       },
       {
-        src: "/uangku-wallets.jpg",
+        src: "/projects/uangku/uangku-wallets.jpg",
         caption: "Monitor all wallet balances at a glance",
       },
       {
-        src: "/uangku-report.jpg",
+        src: "/projects/uangku/uangku-report.jpg",
         caption: "Monthly spending reports with category breakdown",
       },
       {
-        src: "/uangku-create-transaction.jpg",
+        src: "/projects/uangku/uangku-create-transaction.jpg",
         caption: "Manually add transactions with category, wallet, and date",
       },
       {
-        src: "/uangku-settings.jpg",
+        src: "/projects/uangku/uangku-settings.jpg",
         caption: "Supports BCA, Livin, BRImo, Jago, SeaBank, GoPay, OVO, ShopeePay, DANA",
       },
     ],

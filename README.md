@@ -27,16 +27,16 @@ git clone https://github.com/your-org/sudut-kode-landing.git
 cd sudut-kode-landing
 
 # Install dependencies
-bun install
+bun run install
 
 # Run dev server
-bun dev
+bun run dev
 
 # Build for production
-bun build
+bun run build
 
 # Preview build result
-bun preview
+bun run preview
 ```
 
 ---
